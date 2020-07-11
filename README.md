@@ -11,3 +11,5 @@ Some time ago I translated great [Functional Programming for Mortals](https://le
 Unfortunately, you won't find anything else interesating here. This profile is the home of forks, failed experiments and half-baked projects that never saw a user. 🤷
 
 I'm located in [Gdansk 🇵🇱](https://goo.gl/maps/7f7eFLmxBvNTzbx28), so if you're around and want to chat, just let me know. I'm always happy to make some new friends.
+
+Oh, and don't forget to subscribe to my awesome stream of 💩-posts at [Twitter](https://twitter.com/Krever01)!
