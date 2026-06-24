@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Wojtek (Voytek) and I'm a Staff Engineer at [SwissBorg](https://swissborg.com), where I'm responsible for accounting/controlling side of our wealth-management system.
+My name is Wojtek (Voytek) and I'm a Staff Engineer at [SwissBorg](https://swissborg.com), where I'm responsible for accounting and controlling side of our wealth-management system.
 
 My main OSS contribution is founding the [Business4s](https://github.com/business4s) community and ecosystem.
 
