@@ -9,6 +9,7 @@ Sometimes I speak at conferences and all my talks are available [here](https://w
 Outside the main theme, a few side projects I tinker with:
 
 - 📒 [Fintech Engineering Handbook](https://github.com/Krever/fintech-engineering-handbook) — a guide to the patterns that make money systems trustworthy.
+- 📘 [The Developer Communication Handbook](https://github.com/Krever/developer-communication-handbook) — a guide to better teamwork.
 - 🧒 [tandu.app](https://tandu.app) — a tiny app for picking an activity to do with the kids, online or offline.
 - 💸 [ssbudget](https://github.com/Krever/ssbudget) — a "how much can I spend this month?" budget tracker
 
